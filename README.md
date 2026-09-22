@@ -4,6 +4,11 @@ A clickable prototype of a universal, on-device search feature for Android phone
 
 Search and Ask live inside a **Dynamic Island** that grows out of the punch-hole camera. The same island also shows live activities: timers, calls, a food order, a train trip, voice input and alarms.
 
+## Docs
+
+- [Product requirements (PRD)](docs/PRD.md): problem, goals, personas, requirements, metrics, risks, milestones
+- [User flows](docs/USER_FLOW.md): entry points, the Search and Ask flows, live activities, incoming events, and a 3-minute demo script
+
 ## Run it
 
 Open `search-or-ask.html` in any modern desktop browser. Chrome is recommended, because it supports real voice input.
